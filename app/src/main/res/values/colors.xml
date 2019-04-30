@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#FFFFFF</color>
+    <color name="colorPrimaryDark">#3D3D3D</color>
+    <color name="colorAccent">#ff4035</color>
+
+    <color name="transparent">#FFFFFFFF</color>
+    <color name="white">#FFFFFF</color>
+
+    <color name="buttonColor">#4B4B4B</color>
+
+    <color name="background">#EFEFEF</color>
+    <color name="cardBackground">#FFFFFF</color>
+    <color name="lightBoard">#919191</color>
+    <color name="deepBoard">#333333</color>
+    
+    <color name="标题">#333333</color>
+    <color name="正文">#555555</color>
+    <color name="提示文字">#919191</color>
+    <color name="按钮文字">#ffffff</color>
+</resources>

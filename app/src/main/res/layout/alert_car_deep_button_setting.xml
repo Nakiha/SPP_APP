@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="horizontal"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content">
+
+    <EditText
+        android:id="@+id/go_up_left_button_setting"
+        android:layout_width="0dp"
+        android:layout_weight="1"
+        android:layout_height="wrap_content"
+        android:ems="10"
+        android:gravity="center"
+        android:hint="@string/go_up_left"
+        android:inputType="textPersonName"
+        android:textSize="16sp" />
+
+    <EditText
+        android:id="@+id/go_down_left_button_setting"
+        android:layout_weight="1"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:ems="10"
+        android:gravity="center"
+        android:hint="@string/go_down_left"
+        android:inputType="textPersonName"
+        android:textSize="16sp"
+        tools:layout_editor_absoluteY="85dp" />
+
+    <EditText
+        android:id="@+id/go_up_right_button_setting"
+        android:layout_weight="1"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:ems="10"
+        android:gravity="center"
+        android:hint="@string/go_up_right"
+        android:inputType="textPersonName"
+        android:textSize="16sp"
+        tools:layout_editor_absoluteY="42dp" />
+
+    <EditText
+        android:id="@+id/go_down_right_button_setting"
+        android:layout_weight="1"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:ems="10"
+        android:gravity="center"
+        android:hint="@string/go_down_right"
+        android:inputType="textPersonName"
+        android:textSize="16sp"
+        tools:layout_editor_absoluteY="127dp" />
+</LinearLayout>

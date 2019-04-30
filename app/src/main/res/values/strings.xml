@@ -1,0 +1,51 @@
+<resources>
+    <string name="app_name">ReLease</string>
+    <string name="version">Ver 0.1.1</string>
+    <string name="app_chinese_name">简单交互</string>
+
+
+    <!--layout/activity_login.xml-->
+    <string name="demo_stage">本应用目前仍处于Demo的阶段\n仅实现了非常少量的功能</string>
+    <string name="what_is_this">这是什么?</string>
+    <string name="what_is_this_detail">本应用将根据档案名称来保存数据\n如果不需要保存操作数据\n请选择快速模式</string>
+    <string name="account_name">档案名</string>
+    <string name="password">密码</string>
+    <string name="quick_mode">快速模式</string>
+    <string name="sign_in">登陆</string>
+    <string name="edit_accounts">编辑档案库</string>
+
+    <!--layout/list_item_device.xml-->
+    <string name="about_this_app">关于本应用</string>
+
+    <string name="device_name">设备名</string>
+    <string name="note_name">备注名</string>
+    <string name="mac_address">MAC</string>
+
+    <!--layout/activity_view_devices.xml-->'
+    <string name="add_device">添加设备</string>
+    <string name="delete_device">删除设备</string>
+
+    <!--layout/activity_about_app.xml-->
+    <string name="app_introduction_title">关于本应用</string>
+    <string name="app_introduction">ReLease(简单交互)是为实现多终端信息简便交互而开发的应用, 目前处于Demo阶段, 仅实现蓝牙串口通信.</string>
+    <string name="reference_title">引用的开源项目</string>
+    <string name="reference1">Litepal 3.0.0\ncircleImageView 3.0.0\nrecyclerView-v7:28.0.0\nbigkoo:alertview:1.0.3</string>
+    <string name="author_title">关于作者</string>
+    <string name="author">Nakiha</string>
+    <string name="author_github">Android开发爱好者Nakiha\n点击访问我的Github\nhttps://github.com/Nakiha</string>
+
+    <!--layout/activity_control_remote_car.xml-->
+    <string name="control_page">控制页面</string>
+    <string name="button_setting">按钮设置</string>
+    <string name="button_deep_setting">进阶设置</string>
+
+    <!--layout/alert_car_button_setting.xml-->
+    <string name="go_up">前进</string>
+    <string name="go_down">后退</string>
+    <string name="go_left">左转</string>
+    <string name="go_right">右转</string>
+    <string name="go_up_left">左前</string>
+    <string name="go_up_right">右前</string>
+    <string name="go_down_left">左后</string>
+    <string name="go_down_right">右后</string>
+</resources>
